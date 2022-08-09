@@ -1,0 +1,25 @@
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 200%;
+    height: 180px;
+  }
+
+.center1 {
+    margin-left:510px;
+  }
+
+.center2 {
+    margin-left:450px;
+  }
+.center3 {
+    margin-left:470px;
+}
+
+.center4 {
+  margin-left:470px;
+  height: 8px;
+}
